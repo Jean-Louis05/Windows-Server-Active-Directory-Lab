@@ -39,7 +39,9 @@ The lab simulates a small business environment and demonstrates core technologie
 
 The diagram below illustrates the virtual enterprise network used throughout this home lab. It includes a Windows Server 2022 domain environment, network infrastructure, VPN access, and supporting services.
 
-![Windows Server Lab Topology](images/image.png)
+<p align="center">
+  <img src="images/image.png" width="700">
+</p>
 
 ---
 
